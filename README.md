@@ -9,3 +9,6 @@ Browser extensions that i use
 
 ```var_masterpiece ``` \
  To format php var_dump or print_r outputs in chrome
+
+```Tampermonkey ``` \
+ To install scripts on other websites and do cool things
