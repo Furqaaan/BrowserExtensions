@@ -12,3 +12,7 @@ Browser extensions that i use
 
 ```Tampermonkey ``` \
  To install scripts on other websites and do cool things
+ 
+ 
+```daily.dev ``` \
+ To get latest programming news
