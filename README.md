@@ -2,7 +2,7 @@
 Browser extensions that i use
 
 ```Testing Playground ``` \
- To know the best selector for testing 
+ To know the best selector for testing <br/>
  https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related?hl=en
  
 ```Wappalyzer ``` \
