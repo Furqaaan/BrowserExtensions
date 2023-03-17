@@ -1,6 +1,10 @@
 # Extensions
 Browser extensions that i use
 
+```Testing Playground ``` \
+ To know the best selector for testing 
+ https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related?hl=en
+ 
 ```Wappalyzer ``` \
  To know about technologies used in a website
 
