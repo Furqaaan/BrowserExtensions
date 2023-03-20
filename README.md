@@ -1,6 +1,10 @@
 # Extensions
 Browser extensions that i use
 
+```JSON Formatter ``` \
+ To format json data online <br/>
+https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en
+ 
 ```Testing Playground ``` \
  To know the best selector for testing <br/>
  https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano/related?hl=en
