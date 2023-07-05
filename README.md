@@ -1,6 +1,10 @@
 # Extensions
 Browser extensions that i use
 
+```VisBug ``` \
+ Tool to inspect html elements interactively <br/>
+[https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)
+
 ```JSON Formatter ``` \
  To format json data online <br/>
 https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en
