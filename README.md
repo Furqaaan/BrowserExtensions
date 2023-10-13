@@ -5,9 +5,9 @@ Browser extensions that i use
  Tool to inspect html elements interactively <br/>
 [https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc/related)
 
-```JSON Formatter ``` \
+```JSON Viewer ``` \
  To format json data online <br/>
-https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en
+[https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa/related?hl=en](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related)
  
 ```Testing Playground ``` \
  To know the best selector for testing <br/>
